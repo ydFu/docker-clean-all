@@ -31,4 +31,4 @@ if [[ "$1" == "run" ]];then
   exit 0
 fi
 
-echo "The plugin named docker-clean-all"
+echo "The plugin named docker-remove-all"
