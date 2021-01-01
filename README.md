@@ -1,7 +1,7 @@
 # docker-clean-all
 
 ## Introduction
-This PlugIN remove all Docker containers,volumes,images and network.
+This PlugIN removes all Docker containers,volumes,images and network.
 
 ---
 ## Using a plugin
